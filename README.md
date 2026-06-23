@@ -3,7 +3,7 @@ A simple way for launching your experiments without any CUDA conflict dependenci
 
 ## Why should you use it?
 
-1. Launching your experiments in independent persistant container has tons of benefits.
+1. Launching your experiments in an independent persistant container has tons of benefits.
 2. Because it introduces an easy and automatic way of using the Hugging Face CLI Autentication so your downloads are much quicker.
 3. If needed, you can add more dependencies using the `pip install nameDep` command.
 
